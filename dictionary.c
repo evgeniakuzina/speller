@@ -53,12 +53,10 @@ bool check(const char *word)
         
         if (trav->children[i] == NULL)
         {
-            
             return false;
         }
         else
         {
-            
            trav = trav->children[i];
         }
     }    
@@ -75,7 +73,7 @@ unsigned int n = 0;
 
 bool load(const char *dictionary)
 {
-    // TODO
+    // Creates root node
     root = calloc(1, sizeof(node));
     root->is_word = false;
     int i = 0;
