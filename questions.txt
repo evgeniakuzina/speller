@@ -1,0 +1,10 @@
+0.  This is a example of 45-letter word, that is maximum length of a word in speller.
+1.  getrusage() function returns resource usage measures.
+2.  16
+3.  TODO
+4.  Main goes from very first letter adding next letters to previous ones, only if alphabetical symbols or apostrophes. It also 
+checks whether length of a word[] is less than 45 letters by incrementing index every time it adds letter. Main also omits words 
+that contain numeric symbols. Once it hits '\0' sign it stops adding letter to the string and treat it as a single word[]. Then main
+checks whether the word[] is mispelled and goes on next word with the same procedure until it hits EOF.
+5.  TODO
+6.  TODO
