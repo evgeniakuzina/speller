@@ -21,6 +21,5 @@ double or single linked lists, hashtable or trie.
 I decided to use trie because it's the most efficient
 and the most difficult on my opinion.
 
-This challenging task helped me to understand how smth is stored in memory, 
-what is a pointer and how powerful it is.
+This challenging task helped me to understand what memory management is and how powerful this tool is.
  
