@@ -8,7 +8,7 @@ then loads some text in memory, checks every word in a text
 and make a conclusion about how many words are misspelled, 
 how long does it takes to load a dictionary and so on.
 
-I had some distribution code for this task but I fully implemented following functions
+I had a lot of distribution code for this task but I fully implemented following functions
 in dictionary.c:
 
 - load 
